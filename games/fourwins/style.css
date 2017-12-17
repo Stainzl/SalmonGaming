@@ -1,0 +1,18 @@
+body{
+    line-height:15px;
+    margin:0px;
+    padding:0px;
+}
+
+table[type="fw"] {
+    width: 50em;
+    margin:1% auto;
+}
+
+table[type="fw"] td {
+    border:2px solid #3cadd4;
+}
+
+table[type="fw"] tr {
+    border:2px solid #3cadd4;
+}
