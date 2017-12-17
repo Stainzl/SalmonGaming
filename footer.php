@@ -10,7 +10,6 @@
 									<li><a href="#">Zeile 2</a></li>
 									<li><a href="#">Zeile 3</a></li>
 									<li><a href="#">Zeile 4</a></li>
-									<li><a href="#">Zeile 5</a></li>
 								</ul>
 							</section>
 							<section class="3u 6u$(medium) 12u$(small)">
@@ -20,7 +19,6 @@
                                     <li><a href="#">Zeile 2</a></li>
                                     <li><a href="#">Zeile 3</a></li>
                                     <li><a href="#">Zeile 4</a></li>
-                                    <li><a href="#">Zeile 5</a></li>
 								</ul>
 							</section>
 							<section class="3u 6u(medium) 12u$(small)">
@@ -30,7 +28,6 @@
                                     <li><a href="#">Zeile 2</a></li>
                                     <li><a href="#">Zeile 3</a></li>
                                     <li><a href="#">Zeile 4</a></li>
-                                    <li><a href="#">Zeile 5</a></li>
 								</ul>
 							</section>
 							<section class="3u$ 6u$(medium) 12u$(small)">
@@ -39,7 +36,6 @@
                                     <li><a href="/index.php">Main Page</a></li>
                                     <li><a href="/games.php">Games</a></li>
                                     <li><a href="/wiki.php">Wiki</a></li>
-                                    <li><a href="#">Zeile 4</a></li>
                                     <li><a href="/legalnotice.php">Legal Notice</a></li>
 								</ul>
 							</section>

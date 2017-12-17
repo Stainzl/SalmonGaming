@@ -40,7 +40,7 @@
             </div>
             <div class="4u 12u$(medium)">
                 <section class="box">
-                    <a href="/wiki/fourwins/fourwins.php"><i class="icon big rounded color9 fa fa-book"></i></a>
+                    <a href="/wiki/na/na.php"><i class="icon big rounded color9 fa fa-book"></i></a>
                     <h3>Four Wins</h3>
                 </section>
             </div>
