@@ -13,4 +13,13 @@
 
 Route::get('/', function () {
     return view('home/index');
-});
+})->name("home");
+Route::get('/games', function() {
+    return view('games/index');
+})->name("games");
+Route::get('/wiki', function() {
+    return view('wiki ');
+})->name("wiki");
+Route::get('/login', function() {
+    return view('home/index');
+})->name("login");
